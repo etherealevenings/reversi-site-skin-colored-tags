@@ -4,9 +4,13 @@ reversi site skin + colored tags
 the bottom four code groups are for the colored tags; everything else is just normal reversi.
 
 .warnings a,
+
 .warning .tags a,
+
 dd.warning.tags a {
+
 color: #e85494;
+
 }
 
 .freeforms a,
